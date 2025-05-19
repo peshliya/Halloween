@@ -1,6 +1,8 @@
 🎃 A Frightfully Fun Halloween Awaits! 👻
 
-This is a fully responsive Halloween-themed website designed to bring spooky fun to all screen sizes — from desktop monitors to mobile phones.
+This is a fully responsive Halloween-themed website designed to bring spooky fun to all screen sizes — from desktop monitors to mobile phones. Get ready for a night full of spooky surprises, fun games,
+                                    creepy costumes, and lots of treats. Whether you're here for tricks or just a good
+                                    scare, there's something exciting waiting for everyone!
 
 🔮 Features
 
