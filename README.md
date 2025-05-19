@@ -16,3 +16,10 @@ This is a fully responsive Halloween-themed website designed to bring spooky fun
 
 🌑 Perfect for event pages, invites, or personal Halloween projects
 
+![image alt](https://github.com/peshliya/Halloween/blob/bc995d0a146130bde19316fc8f9130d7d8f0cc38/05.png)
+![image alt](https://github.com/peshliya/Halloween/blob/bc995d0a146130bde19316fc8f9130d7d8f0cc38/06.png)
+![image alt](https://github.com/peshliya/Halloween/blob/bc995d0a146130bde19316fc8f9130d7d8f0cc38/07.png)
+![image alt](https://github.com/peshliya/Halloween/blob/bc995d0a146130bde19316fc8f9130d7d8f0cc38/08.png)
+![image alt](https://github.com/peshliya/Halloween/blob/bc995d0a146130bde19316fc8f9130d7d8f0cc38/09.png)
+
+
