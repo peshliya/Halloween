@@ -7,9 +7,13 @@ This is a fully responsive Halloween-themed website designed to bring spooky fun
 🔮 Features
 
 💻 Mobile-first responsive design
+
 🧙‍♀️ Smooth animations and eerie transitions
+
 🕸️ Halloween-themed icons, colors, and fonts
+
 🎃 Intractive elements like hover effects and modals
+
 🌑 Perfect for event pages, invites, or personal Halloween projects
 
 ![image alt](https://github.com/peshliya/Halloween/blob/bc995d0a146130bde19316fc8f9130d7d8f0cc38/05.png)
